@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Actor</title>
+  <desc id="description">Actor UML: figura humana simplificada con trazos de boceto y fondo transparente.</desc>
+  <g stroke="#1e1e1e" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M77 26 Q77.4 39.3 64 39 Q50.7 39.2 51 26 Q50.7 12.7 64 13 Q77.2 12.8 77 26 Z" fill="#a5d8ff"/>
+    <path d="M64 39 Q63.4 59 64 79"/>
+    <path d="M36 54 Q64 53.3 92 54"/>
+    <path d="M64 79 Q53 96 42 113 M64 79 Q75.6 96.4 86 113"/>
+  </g>
+</svg>

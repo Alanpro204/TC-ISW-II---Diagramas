@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Client Page</title>
+  <desc id="description">Página cliente: ventana de navegador y globo. Trazos de boceto y fondo transparente.</desc>
+  <g stroke="#1e1e1e" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M23 32.5 L22.5 17 Q22.3 13 27 13.5 L101 13 Q106 13.2 105.5 18 L106 32.5 Z" fill="#a5d8ff" stroke="none"/>
+    <path d="M27 13.5 Q64 12.6 101 13 Q106.2 13.1 105.5 18 L105.8 109 Q105.8 114.4 101 114 L27 114.5 Q22.4 114.4 22.5 109 L23 18 Q22.6 13.4 27 13.5 Z"/>
+    <path d="M22.8 32.5 Q64 31.7 105.7 32.8"/>
+    <path d="M24 15 Q62 13.8 100 14.4 M104.5 36 Q105.5 74 104.5 109" stroke-width="1" opacity=".32"/>
+    <path d="M33 23 L34 23.2 M43 23.1 L44 23 M53 23 L54 23.2" stroke-width="3.2"/>
+    <path d="M80.5 62 Q81 79.5 64 79 Q46.5 79 47 62 Q46.7 45.3 64 45 Q80.8 45.2 80.5 62 Z" fill="#d0ebff"/>
+    <path d="M64 45 Q50.5 61.8 64 79 M64 45 Q77.5 62.2 64 79 M47.3 62 Q64 61.1 80.5 62.2" stroke-width="2"/>
+    <path d="M36 92 Q64 91.2 92 92 M36 102 Q55 101.5 74 102"/>
+
+  </g>
+</svg>

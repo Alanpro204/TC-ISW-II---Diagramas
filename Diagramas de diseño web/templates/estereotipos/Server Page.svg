@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Server Page</title>
+  <desc id="description">Página servidor: engranaje de ocho dientes. Trazos de boceto y fondo transparente.</desc>
+  <defs>
+    <mask id="gear-hole" maskUnits="userSpaceOnUse" x="0" y="0" width="128" height="128">
+      <path d="M0 0H128V128H0Z" fill="white"/>
+      <path d="M81 64 Q81.5 81.2 64 81 Q46.7 80.8 47 64 Q46.8 46.5 64 47 Q81 46.8 81 64Z" fill="black"/>
+    </mask>
+  </defs>
+  <g stroke="#1e1e1e" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M51.1 32.6 L56.2 30.9 L55.1 17.8 L72.9 17.8 L71.8 30.9 L76.9 32.6 L77.1 32.6 L81.9 35.1 L90.4 25.1 L102.9 37.6 L92.9 46.1 L95.4 50.9 L95.4 51.1 L97.1 56.2 L110.2 55.1 L110.2 72.9 L97.1 71.8 L95.4 76.9 L95.4 77.1 L92.9 81.9 L102.9 90.4 L90.4 102.9 L81.9 92.9 L77.1 95.4 L76.9 95.4 L71.8 97.1 L72.9 110.2 L55.1 110.2 L56.2 97.1 L51.1 95.4 L50.9 95.4 L46.1 92.9 L37.6 102.9 L25.1 90.4 L35.1 81.9 L32.6 77.1 L32.6 76.9 L30.9 71.8 L17.8 72.9 L17.8 55.1 L30.9 56.2 L32.6 51.1 L32.6 50.9 L35.1 46.1 L25.1 37.6 L37.6 25.1 L46.1 35.1 L50.9 32.6 Z" fill="#a5d8ff" mask="url(#gear-hole)"/>
+    <path d="M81 64 Q81.5 81.2 64 81 Q46.7 80.8 47 64 Q46.8 46.5 64 47 Q81 46.8 81 64 Z" fill="none"/>
+  </g>
+</svg>
