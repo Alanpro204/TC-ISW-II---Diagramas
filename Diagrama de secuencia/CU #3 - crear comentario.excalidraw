@@ -1656,7 +1656,7 @@
       "type": "arrow",
       "x": 1069.6446959618308,
       "y": 907.1025590237363,
-      "width": 1188.6529183661569,
+      "width": 918.9566091666189,
       "height": 13.688344299003802,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -1671,11 +1671,11 @@
       "index": "af",
       "roundness": null,
       "seed": 1025782313,
-      "version": 559,
-      "versionNonce": 2119689879,
+      "version": 633,
+      "versionNonce": 418828520,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1793551245496,
+      "updated": 1793589585086,
       "link": null,
       "locked": false,
       "points": [
@@ -1693,16 +1693,24 @@
         ],
         [
           -603.2484537564161,
-          -11.768243308691922
+          -11.822462314124664
         ],
         [
-          -1188.6529183661569,
-          -11.768243308691922
+          -918.9566091666189,
+          -11.822462314124664
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": null,
-      "endBinding": null,
+      "endBinding": {
+        "elementId": "UruwYZZBto4Cetp4Zi9CG",
+        "fixedPoint": [
+          1.7348434612118726,
+          0.4848212509860025
+        ],
+        "focus": 0,
+        "gap": 0
+      },
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": true,
@@ -1953,34 +1961,6 @@
         }
       ],
       "updated": 1793551228005,
-      "link": null,
-      "locked": false
-    },
-    {
-      "id": "UruwYZZBto4Cetp4Zi9CG",
-      "type": "rectangle",
-      "x": -195.22268991049748,
-      "y": 848.8768251528014,
-      "width": 23.92885336764732,
-      "height": 77.9298834766089,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#a5d8ff",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "ap",
-      "roundness": null,
-      "seed": 2045883529,
-      "version": 100,
-      "versionNonce": 325239097,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1793551183077,
       "link": null,
       "locked": false
     },
@@ -2299,10 +2279,10 @@
     {
       "id": "DlEYYo8AkawAvj4zVvitr",
       "type": "rectangle",
-      "x": 1049.8007068151555,
-      "y": 555.4998634518017,
+      "x": 1052.2948913783991,
+      "y": 555.4455892897001,
       "width": 25.263410412680287,
-      "height": 346.6067811525367,
+      "height": 376.0489145492278,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
@@ -2316,11 +2296,11 @@
       "index": "b00",
       "roundness": null,
       "seed": 1562564142,
-      "version": 644,
-      "versionNonce": 219835255,
+      "version": 661,
+      "versionNonce": 1046358168,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1793551224946,
+      "updated": 1793589591595,
       "link": null,
       "locked": false
     },
@@ -2635,7 +2615,7 @@
       "version": 69,
       "versionNonce": 665322295,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1793551632406,
       "link": null,
       "locked": false,
@@ -2648,6 +2628,39 @@
       "originalText": "<<Link>> CrearComentario()",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "UruwYZZBto4Cetp4Zi9CG",
+      "type": "rectangle",
+      "x": 109.17527199605126,
+      "y": 857.4980331132887,
+      "width": 23.92885336764732,
+      "height": 77.9298834766089,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b0C",
+      "roundness": null,
+      "seed": 2045883529,
+      "version": 142,
+      "versionNonce": 1538681576,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "fgkoIjNCWSE4cJ2idBl2_",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1793589584691,
+      "link": null,
+      "locked": false
     }
   ],
   "appState": {
